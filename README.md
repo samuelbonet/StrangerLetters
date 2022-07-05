@@ -7,3 +7,5 @@ la posibilidad de adentrarte en el mundo de Stranger Things.
 
 # Derechos de autor
 Este repositorio está basado en un video de Nestor PLasencia https://www.youtube.com/watch?v=5-PoFOjg4wE,me parecío a la vez una buena idea para aprender y divertida.
+
+[![foto-Muestra.jpg](https://i.postimg.cc/jjVGCkWz/foto-Muestra.jpg)](https://postimg.cc/9DpxnbYM)
